@@ -50,7 +50,7 @@
 
 theme = dark:Catppuccin Frappe,light:Catppuccin Latte
 font-family = "CaskaydiaCove Nerd Font Mono"
-background-opacity = 0.5
+background-opacity = 0.95
 # background-opacity-cells = true
 background-blur = true
 maximize = true
